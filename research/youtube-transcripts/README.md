@@ -17,6 +17,4 @@ Each transcript file will contain:
 - Creator name
 - Published date
 - Full transcript
-- Key takeaways
-- Frameworks
-- Action items
+  
